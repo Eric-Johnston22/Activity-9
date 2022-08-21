@@ -2,7 +2,6 @@
 
 public class myMethods
 {
-
     // Method Stub 1
     public void displaySum(int a, int b){}
 
