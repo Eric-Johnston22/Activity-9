@@ -1,1 +1,3 @@
-# Activity 9
+# CST-150: Activity 9
+
+List of method signatures
